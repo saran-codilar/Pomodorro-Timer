@@ -1,0 +1,8 @@
+button{
+    background-color: transparent;
+    color: rgba(255,255,255,0.8);
+    border:0;
+    display: inline-block;
+    width: 100px;
+    cursor: pointer;
+  }

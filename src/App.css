@@ -1,0 +1,9 @@
+body{
+  background-color: #161932;
+  color: #eee;
+}
+main{
+  max-width: 340px;
+  margin: 0 auto;
+  text-align: center;
+}
